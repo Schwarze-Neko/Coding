@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZjkBECn_)
-# ONM4 Assignment
-Author: Javier Zumbado, S2210238081
+
+# Next.js App with mongoDB storage
+Author: Javier Zumbado
 
