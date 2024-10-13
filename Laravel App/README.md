@@ -1,3 +1,3 @@
-# Laravel Assignment
+# Laravel App
 
-Author: Javier Zumbado, S2210238081
+Author: Javier Zumbado
