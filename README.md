@@ -1,1 +1,1 @@
-# Coding
+# Some small coding snippets/projects I made
